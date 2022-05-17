@@ -1,4 +1,4 @@
-<img width="1200" style="object-fit: cover;" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
+<img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="full-stack-development">
 
 # Hi 👋, I'm Mirazul Islam
 
