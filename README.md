@@ -1,9 +1,7 @@
-##Hi there👋
-
 - 👋 Hi, I’m @mirazulislamgit
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...GitHub
 - 📫 How to reach me ...
 
 <!---
