@@ -1,4 +1,13 @@
-![👀 I’m interested in programming](https://i.ibb.co/2dhNYqB/Mirazul-Islam-Git-Hub-Chover-Photo.jpg)
-<h1>Hi 👋, I'm Mirazul Islam</h1>
-<h4>👀 I’m interested in programming</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirazulislamgit&label=Profile%20views&color=0e75b6&style=flat" alt="mirazulislamgit" /> </p>
+# Hi 👋, I'm Mirazul Islam
+
+![Profile views](https://gpvc.arturio.dev/mirazulislamgit)
+
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python 
+
+<p>
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as Python.
+</p>
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirazulislamgit&theme=radical&show_icons=true) 
