@@ -1,3 +1,5 @@
+<img width="1200" style="object-fit: cover;" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
+
 # Hi 👋, I'm Mirazul Islam
 
 - 👀 I’m interested in programming
