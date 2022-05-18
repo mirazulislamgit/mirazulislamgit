@@ -12,4 +12,26 @@ I’m a Front End Web developer who is passionate about making error-free websit
 </p>
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirazulislamgit&theme=radical&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirazulislamgit&theme=radical&show_icons=true)
+
+
+## Contact
+
+<p align="left">
+  <a href="https://www.facebook.com/mirazulislam.me/">
+    <img width="80" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" border="0">
+  </a>
+  
+   <a href="https://twitter.com/MirazulIslma">
+    <img width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" border="0">
+  </a>
+  
+  <a href="https://www.instagram.com/mirazulislam.me/">
+    <img width="80" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" border="0">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mirajul-islam-666245237/">
+    <img width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" border="0">
+  </a>
+    
+</p>  
