@@ -15,7 +15,7 @@ I'm a front end web developer who is interested in creating a flawless website w
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirazulislamgit&theme=radical&show_icons=true)
 
 
-## Contact
+## Social media
 
 <p align="left">
   <a href="https://www.facebook.com/mirazulislam.me/">
